@@ -24,7 +24,7 @@ public class GetDB {
 		File dir = new File(filePath);
 		File file = new File(filePath + fileName);
 
-		if (dir.exists() == false) {
+		if (dir.exists() == false) {	
 			dir.mkdirs();
 		}else {
 			System.out.println("같은이름의 폴더가 이미 존재합니다.");
