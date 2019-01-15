@@ -8,6 +8,7 @@ public class SmartPhoneTest {
 		SmartPhone sp1 = new SmartPhone("»ï¼º","°¶·°½Ã³ëÆ®2", 850000);
 		SmartPhone sp2 = new SmartPhone("¾ÖÇÃ","¾ÆÀÌÆù5", 740000,30);
 		SmartPhone sp3 = new SmartPhone("»ï¼º","°¶·°½ÃS3", 750000,35);
+		
 	}
 
 }
