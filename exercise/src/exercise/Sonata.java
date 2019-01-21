@@ -15,6 +15,4 @@ public class Sonata extends Car{
 		return super.toString() + "\t[용도] " + use + "\t[시리즈] " + series;
 	}
 	
-	
-	
 }
